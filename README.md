@@ -8,3 +8,7 @@
   <h4>   Js ile slider yapıldı. </h4>
 
      
+
+
+https://github.com/user-attachments/assets/4fd9a42e-c045-4c41-adfe-df9c1741d65f
+
