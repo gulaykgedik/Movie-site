@@ -10,5 +10,6 @@
      
 
 
-https://github.com/user-attachments/assets/4fd9a42e-c045-4c41-adfe-df9c1741d65f
 
+
+![Movie-site](https://github.com/user-attachments/assets/8a9477cf-f2cb-4a38-8423-e5c66facc4dd)
