@@ -1,11 +1,32 @@
 
-<h2> Film Projesi </h2>
+## Film Project 🎞️
+<br/>
 
-<h3> Html, Css, Js kullanıldı </h3>
+This project is a movie website developed using HTML, CSS, and JavaScript.
+To enhance user experience, it includes a dark/light mode, responsive design, and a slider created with JavaScript.
 
-<h4> Gece gündüz modu </h4>
-  <h4>   Responsive tasarım </h4>
-  <h4>   Js ile slider yapıldı. </h4>
+## Features 🎉
+<br/>
+
+Dark/Light Mode: Users can switch between dark and light themes.
+
+Responsive Design: Developed to be compatible with all devices.
+
+JavaScript Slider: A slider for movie showcases is included.
+
+## Technologies Used ⚒️
+<br/>
+
+HTML5🎀
+
+CSS3
+
+JavaScript
+
+## Screenshots
+<br/>
+
+
 
      
 
